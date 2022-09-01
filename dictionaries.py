@@ -1,5 +1,5 @@
 # dictionary: a changeable, unordered collection of unique key:value pairs
-# fast because they use hasing, allow us to access a value quickly
+# fast because they use hashing, allow us to access a value quickly
 
 capitals = {
     'USA': 'Washington DC',
