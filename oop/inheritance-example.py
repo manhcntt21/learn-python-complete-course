@@ -1,6 +1,9 @@
-class Animal:
-    alive = True
+# multi-level inheritance: when a child class inherits another child class
+class Organism:
+    alive =True
 
+
+class Animal(Organism):
     def eat(self):
         print("This animal is eating")
 
