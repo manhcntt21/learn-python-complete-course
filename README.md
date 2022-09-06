@@ -47,4 +47,12 @@
 42. [OOP - inheritance](./oop/inheritance-example.py)
 43. [OOP - multilevel inheritance](./oop/inheritance-example.py)
 44. [OOP - multiple inheritance](./oop/multiple-inheritance.py)
-45. 
+45. [OOP - method overriding](./oop/method-overriding.py)
+46. [OOP - method chaining](./oop/method-chanining.py)
+47. [OOP - super function](./oop/super-function.py)
+48. [OOP - abstract class](./oop/abstract-class.py)
+49. [objects as argument](./oop/objects-as-arguments.py)
+50. [duck typing](./duck-typing.py)
+51. [walrus operator](./walrus-operator.py)
+52. [functions to variable](./functions-to-variables.py)
+53. [higher order function](./higher-order-functions.py)
