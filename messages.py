@@ -1,3 +1,5 @@
+import main_python
+
 def hello():
     print("Hello, have a nice day!")
 
