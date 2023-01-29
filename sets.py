@@ -42,3 +42,6 @@ print(dishes.difference(utensils))
 
 # find element of two or more set
 print(utensils.intersection(dishes))
+
+# TypeError: 'set' object is not subscriptable
+# print(utensils[0])

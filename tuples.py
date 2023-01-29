@@ -1,4 +1,4 @@
-# tuple: collection which is ordered and unchangeable
+# tuple: collection which is ordered, indexed and unchangeable
 # used to group together related data
 
 student = ("Manh Do", 25, "male")
@@ -14,3 +14,8 @@ for x in student:
 # check value exist
 if "Manh Do" in student:
     print("Manh Do is here!")
+
+print(student[0])
+
+# TypeError: 'tuple' object does not support item assignment
+# student[0] = 'M'
